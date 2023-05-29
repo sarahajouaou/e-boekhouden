@@ -64,7 +64,9 @@ body {
 
 .subheader-content p, .subheader-content h1 {
     z-index: 99;
+    width: 17em;
 }
+
 
 h1 {
     font-size: 3rem;
